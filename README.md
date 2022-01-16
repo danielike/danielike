@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danielike
 - 👀 I’m interested in mobile, videogames development and cybersecurity
-- 🌱 I’m currently learning springboot and unity
+- 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
